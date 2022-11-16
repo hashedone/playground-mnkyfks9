@@ -1,6 +1,6 @@
 title: Rust Project
 plan:
-- title: Welcome
+- title: Setting up an environment
   statement: markdowns/welcome.md
 projects:
   rust:
